@@ -7,7 +7,7 @@
   
     // Countdown function
     function countdown() {
-      const countDate = new Date("January 26, 2025 19:00:00").getTime();
+      const countDate = new Date("May 24, 2025 19:00:00").getTime();
       const now = new Date().getTime();
       const gap = countDate - now;
   
